@@ -1,1 +1,2 @@
-once you generate the nitrogen.py rat put it inside a folder with the setup.bat and send that folder to the person, the person should run the setup.bat to install all requirements and then run the py file.
+once you generate the nitrogen.py rat put it inside a folder with the setup.bat and send that folder to the person, 
+the person should run the setup.bat to install all requirements and then run the nitrogen.py file.
